@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Хасбик",
+    "email": "hazbik.doe@example.com",
+    "avatar": "https://celebbio.org/wp-content/cache/thumb/af/e10f3d2aaece5af_400x400.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Хасбулла",
+    "email": "hazbik.smith@example.com",
+    "avatar": "https://icdn.lenta.ru/images/2022/11/03/16/20221103165415330/square_320_93c39abe1219a20aa5b9d427a195a51f.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Уилл Смит",
+    "email": "lapsha.johnson@example.com",
+    "avatar": "https://www.pravilamag.ru/upload/img_cache/3a1/3a12e4ea56221b10632f24f08cbde248_ce_1016x678x0x526.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Гена Букин",
+    "email": "gena.bukin@example.com",
+    "avatar": "https://cs11.pikabu.ru/post_img/big/2019/03/04/5/1551681914191948106.jpg"
+  }
+]
